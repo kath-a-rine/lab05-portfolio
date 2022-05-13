@@ -15,7 +15,7 @@
         "startDate": "2022",
         "description": "Built as a group project, Match my Pet is An interactive matching game where users match photos of the developers' pets. Built with HTML, CSS, and JavaScript using VSCode",
         "images": [
-          "images/match-my-pet/mmp.png"
+          "images/portfolio/match-my-pet/mmp.png"
         ],
         "url": "https://github.com/Team-Objects/match-my-pet",
         "technologies": [
@@ -30,7 +30,7 @@
         "startDate": "2022",
         "description": "An app where users can vote on items by clicking the image. Tracks user votes and items viewed.",
         "images": [
-          "images/busMall/BusMall.png"
+          "images/portfolio/busMall/BusMall.png"
   
         ],
         "url": "https://kath-a-rine.github.io/bus-mall/",
