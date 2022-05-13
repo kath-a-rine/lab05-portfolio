@@ -68,11 +68,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Serve Washington - The State of Washington",
+        "title": "Program Officer and Community Engagement Manager",
+        "years": "06.2019 - 03.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "Drupal"
         ],
         "technologies": [
           "REST API",
