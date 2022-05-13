@@ -1,3 +1,3 @@
-# Modify this portfolio
+# Katharine Swilley's Portfolio!
 
-Make it your own! 
+[Katharine Swilley's Portfolio](https://kath-a-rine-portfolio.netlify.app/)
