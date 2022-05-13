@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Katharine Swilley",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Grants Professional turned Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/kath-a-rine",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/kath-a-rine",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "portfolio100x100.jpg"
     },
     "skills": {
       "icons": [
