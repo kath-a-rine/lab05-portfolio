@@ -75,30 +75,18 @@
           "Drupal"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "HTML"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Community Youth Services",
+        "title": "AmeriCorps Recruitment Specialist",
+        "years": "07.2010 - 03.2018",
         "mainTech": [
-          "Angular 7/8"
+          "HTML"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "HTML"
         ]
       }
     ]
