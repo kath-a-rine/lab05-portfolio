@@ -120,7 +120,7 @@ header h1 {
 }
 
 #about {
-	// background-image: url("public/images/portfolio/caPoppies.jpg");
+	background-image: url(../public/images/caPoppies.jpg);
 	overflow: hidden;
 }
 
@@ -129,7 +129,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color: white;
 	text-align: center;
 }
 
@@ -231,7 +231,8 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #F2C1AE;
+	background-image: url(../public/images/caPoppies.jpg);
 }
 
 .experience-icon {
@@ -257,7 +258,7 @@ header h1 {
 	padding: 5px 8px 5px 8px !important;
 	vertical-align: baseline;
 	background-color: #f9f5e9 !important;
-	color: black;
+	color: white;
 	font-weight: lighter !important;
 	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
